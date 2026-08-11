@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- White Background with Navy Blue Border Outer Ring -->
+  <rect width="100" height="100" rx="24" fill="#FFFFFF" stroke="#0B1320" stroke-width="8"/>
+
+  <!-- "J" Letter in Navy Blue (#0B1320) -->
+  <text y="70" x="50" font-family="Georgia, serif" font-size="62" font-weight="bold" fill="#0B1320" text-anchor="middle">J</text>
+</svg>
